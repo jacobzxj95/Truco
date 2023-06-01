@@ -1,0 +1,4 @@
+<hud name="test hud" width="800" height="600">
+	<element name="Center_top"			pos_x="0.0" pos_y="-0.8" scale_x="1.0" scale_y="0.25" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="1000" sr_h="1000" textureID ="1"/>
+	<element name="heart"				pos_x="0.0" pos_y="-0.8" scale_x="0.07" scale_y="0.07" rotation="0.0" depth="0.026" sr_x="0"	  sr_y="0"	 sr_w="1000" sr_h="1000" textureID ="0"/>
+</hud>
